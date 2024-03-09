@@ -1,6 +1,6 @@
 # Transflower
 ## Mentor as a Service
 Technologies
---Hadoop
---Spark
---Machine learning
+- Hadoop
+- Spark
+- Machine learning
