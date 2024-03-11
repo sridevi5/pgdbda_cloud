@@ -1,0 +1,5 @@
+[
+    {"id":123,"title":"Samsung","description":"Smart phone","unitprice":85000}
+    {"id":123,"title":"Tab","description":"Tablet","unitprice":85000}
+    {"id":123,"title":"Tv","description":"Television","unitprice":85000}
+]
